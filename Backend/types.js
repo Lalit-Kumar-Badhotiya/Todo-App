@@ -1,7 +1,7 @@
 const z = require('zod');
 
 const createTodo = z.object({ 
-  todo: z.string(),
+  title: z.string(),
   description: z.string()
 });
 const updateTodo = z.object({
