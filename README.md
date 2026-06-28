@@ -8,7 +8,7 @@ It has the following features-
 -Anyone can see their existing todo
 -Anyone can mark their todo done
 
-#Things to fix
+# Things to fix
 -use .env to keep api keys/app secrets
 -fix that infinite request bug
 
